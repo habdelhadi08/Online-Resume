@@ -1,0 +1,67 @@
+.container {  
+    position: relative;
+    display: flex;
+    align-items: center;
+    background-color: aqua;
+    width: 800px;
+    height: 200px;
+    align-content: center;
+}
+.container img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.profileimg{
+    height: 300px;
+    width: 100px;
+    position: relative;
+    margin-right: auto;
+    align-content: space-evenly;
+}
+ .container{
+   font-size: 20px;
+        flex-direction: column;
+        align-items: center;
+        font-style: italic; 
+        font: bold;
+ }
+
+    body{
+    background-color: blue;
+}
+.contact{  
+    position: relative;
+    display: flex;
+    justify-content: space-evenly; 
+    align-items: center;
+    background-color:royalblue;
+    width: 500px;
+    height: 200px;
+   font-size: larger;
+    align-content: center;
+    font-style: italic; 
+   font: bold;
+
+    }
+  wrap{
+    display: flex;
+    flex-direction: row;
+  }
+ 
+ p{
+    background-color: aquamarine;
+    
+    
+ }
+h1{
+    color:7752fe;
+}
+br{
+    background-color: aqua;
+}
+   
+div{
+    background-color: aquamarine;
+}
+
